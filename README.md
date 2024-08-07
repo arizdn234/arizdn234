@@ -1,6 +1,8 @@
 ### Welcome to arizdn234's GitHub
 Hello there! 👋 <br>
-<img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimiw.gif" width="250">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimiw.gif" width="250"></center>
+</p>
 
 <p>I'm M. Ari Zidan Syafrizal, I'm a web developer with
     experience in various technologies including HTML, CSS,
@@ -20,7 +22,9 @@ Hello there! 👋 <br>
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/arizdn234)
 
-<img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimiw2.gif" width="250">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimiw2.gif" width="230">
+</p>
 
 ### Contact Me
 [![Gmail Badge](https://img.shields.io/badge/zidanerizal17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zidanerizal17@gmail.com)
@@ -53,7 +57,9 @@ Hello there! 👋 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/z.id21/)
 [![Linkedin](https://img.shields.io/badge/Linked%20In-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arizidan/)
 
-<img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimi3.gif" width="250">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimi3.gif" width="300">
+</p>
 
 ### Stats
 <details>
