@@ -1,7 +1,7 @@
 ### Welcome to arizdn234's GitHub
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
-
 Hello there! 👋 <br>
+<img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimiw.gif" width="250">
+
 <p>I'm M. Ari Zidan Syafrizal, I'm a web developer with
     experience in various technologies including HTML, CSS,
     JavaScript,
@@ -19,6 +19,8 @@ Hello there! 👋 <br>
     make meaningful contributions to the projects I am involved in.</p>
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/arizdn234)
+
+<img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimiw2.gif" width="250">
 
 ### Contact Me
 [![Gmail Badge](https://img.shields.io/badge/zidanerizal17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zidanerizal17@gmail.com)
@@ -50,6 +52,8 @@ Hello there! 👋 <br>
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014165072831)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/z.id21/)
 [![Linkedin](https://img.shields.io/badge/Linked%20In-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ucup-sedaya-91a840238/)
+
+<img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimi3.gif" width="250">
 
 ### Stats
 <details>
