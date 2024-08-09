@@ -20,7 +20,7 @@ Hello there! 👋 <br>
     and
     make meaningful contributions to the projects I am involved in.</p>
 
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/arizdn234)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://finpro4-arizidan-my-portfolio.vercel.app/)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimiw2.gif" width="230">
