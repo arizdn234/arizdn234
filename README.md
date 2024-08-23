@@ -6,7 +6,7 @@ Hello there! 👋 <br>
 
 <p>I'm M. Ari Zidan Syafrizal, I am a technology professional with a wide range of skills in software development, data analysis, and database management. With strong communication skills, high levels of responsibility, and the ability to work in a team, I am able to overcome complex challenges with a structured and analytical approach. My experience in using various programming languages ​​and modern technology tools allows me to create efficient and innovative solutions to meet business needs.</p>
 
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://finpro4-arizidan-my-portfolio.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://arizdn234.github.io/arz-portfolio-112/)
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/arizdn234/arizdn234/main/mimiw2.gif" width="230">
