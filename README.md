@@ -74,4 +74,4 @@ Hello there! 👋 <br>
  <summary><strong>(Open me 👀)</strong></summary>
  <br>
  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=arizdn234&theme=tokyonight&hide_border=true&border_radius=3&card_width=600&card_height=270)](https://git.io/streak-stats" alt="Stat Streak" width="350" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api?username=arizdn234&show_icons=true&theme=tokyonight&
+ <p><img src="https://github-readme-stats.vercel.app/api?username=arizdn234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=27" alt="Github Stats" width="350" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arizdn234&theme=tokyonight&hide_border=true&langs_count=5" alt="Most used languages" width="350" /></p> </details>
